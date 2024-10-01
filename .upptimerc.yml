@@ -24,7 +24,7 @@ status-website:
   introMessage: This is a status page for services run by me.
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
