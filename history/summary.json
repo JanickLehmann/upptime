@@ -4,19 +4,19 @@
     "url": "https://janicklehmann.ch",
     "icon": "https://icons.duckduckgo.com/ip3/janicklehmann.ch.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 326,
-    "timeWeek": 326,
-    "timeMonth": 362,
-    "timeYear": 345,
+    "time": 346,
+    "timeDay": 387,
+    "timeWeek": 341,
+    "timeMonth": 364,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-12-01": 0
+      "2024-12-01": 5
     }
   },
   {
