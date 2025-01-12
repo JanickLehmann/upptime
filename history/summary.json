@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/janicklehmann.ch.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 332,
-    "timeDay": 237,
-    "timeWeek": 261,
-    "timeMonth": 299,
+    "timeDay": 234,
+    "timeWeek": 253,
+    "timeMonth": 294,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2024-12-03": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 575,
-    "timeDay": 992,
-    "timeWeek": 503,
-    "timeMonth": 533,
-    "timeYear": 575,
+    "time": 578,
+    "timeDay": 948,
+    "timeWeek": 624,
+    "timeMonth": 561,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2024-09-08": 19
     }
