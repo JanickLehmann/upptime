@@ -4,10 +4,10 @@
     "url": "https://janicklehmann.ch",
     "icon": "https://icons.duckduckgo.com/ip3/janicklehmann.ch.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 351,
@@ -16,6 +16,7 @@
     "timeMonth": 405,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2025-04-03": 1,
       "2024-12-03": 27
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://github-readme-stats-tawny-chi-62.vercel.app/api/status/up",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats-tawny-chi-62.vercel.app.ico",
     "slug": "git-hub-readme-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 426,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2024-09-08": 19
     }
   }
