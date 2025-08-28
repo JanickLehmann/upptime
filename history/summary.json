@@ -27,7 +27,7 @@
     "url": "https://github-readme-stats-tawny-chi-62.vercel.app/api/status/up",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats-tawny-chi-62.vercel.app.ico",
     "slug": "git-hub-readme-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
@@ -39,6 +39,7 @@
     "timeMonth": 970,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-26": 35,
       "2025-08-25": 16,
       "2025-08-02": 21,
