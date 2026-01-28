@@ -1,7 +1,7 @@
 url: https://janicklehmann.ch
-status: up
-code: 200
-responseTime: 314
-lastUpdated: 2026-01-27T23:00:38.586Z
+status: degraded
+code: 522
+responseTime: 19408
+lastUpdated: 2026-01-28T20:51:07.798Z
 startTime: 2024-09-06T09:10:12.823Z
 generator: Upptime <https://github.com/upptime/upptime>
